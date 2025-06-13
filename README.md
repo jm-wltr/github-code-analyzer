@@ -17,6 +17,9 @@ Other        --> 6,015,243 lines
 [ TOTAL LINES OF CODE: 6,015,243 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
+
+<!-- REPOSITORIES BREAKDOWN START -->
+<!-- REPOSITORIES BREAKDOWN END -->
 *Stats update automatically via GitHub Actions.*
  
 ## How It Works  
