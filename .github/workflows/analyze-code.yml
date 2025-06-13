@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Install Dependencies
         run: |
@@ -138,4 +141,6 @@ jobs:
           # Commit & push all JSONs and the updated README
           git add output/*.json README.md
           git commit -m "chore: update README with global & per-repo code stats" || echo "No changes to commit"
+          git pull --rebase origin main || true
           git push origin HEAD
+          
