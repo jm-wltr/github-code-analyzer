@@ -1,0 +1,58 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 9.74444913864136,
+  "n_files"            : 745,
+  "n_lines"            : 6021072,
+  "files_per_second"   : 76.4537830102393,
+  "lines_per_second"   : 617897.627083259},
+"Text" :{
+  "nFiles": 704,
+  "blank": 117,
+  "comment": 0,
+  "code": 6012423},
+"Jupyter Notebook" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 4708,
+  "code": 1253},
+"Java" :{
+  "nFiles": 8,
+  "blank": 167,
+  "comment": 454,
+  "code": 737},
+"Arduino Sketch" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 90,
+  "code": 337},
+"Python" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 48,
+  "code": 134},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 13,
+  "code": 132},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 13,
+  "code": 120},
+"XML" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 71},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 503,
+  "comment": 5326,
+  "code": 6015243,
+  "nFiles": 745} }
